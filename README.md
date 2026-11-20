@@ -2,6 +2,8 @@
 
 Chat to search a grocery catalog ("find me organic honey under $20 with 4.5+ rating") and place orders. Built with LangChain, Streamlit, and `openai/gpt-oss-120b` on GroqCloud.
 
+Hosted in Streamlit url: https://ai-grocery-shopping-agent-2gdlqcmdqhkugmgfc4mbsb.streamlit.app/
+
 ## Run
 
 1. Copy `.env.example` to `.env` and add your `GROQ_API_KEY`.
